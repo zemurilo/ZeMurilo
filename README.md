@@ -1,21 +1,17 @@
 # 👨🏻‍💻 Murilo Torres
 
-**`Backend Developer | Java | SQL | Estudante de Análise e Desenvolvimento de Sistemas`**
+**`Backend Developer | Java | SQL | Estudante de ADS`**
 
 📍 São Paulo - SP  
 🎓 Análise e Desenvolvimento de Sistemas — SENAC São Paulo  
 💼 Interesse em Backend, Cloud e Engenharia de Software  
-📫 Email: murilopereiratorres533@gmail.com  
+📫 murilopereiratorres533@gmail.com  
 
 ---
 
-Me chamo Murilo Torres, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas no SENAC São Paulo. Sou apaixonado por tecnologia desde criança, quando comecei explorando lógica no Scratch e tentando entender como computadores funcionavam na prática.
+Sou estudante de Análise e Desenvolvimento de Sistemas no SENAC São Paulo e apaixonado por tecnologia desde cedo. Tenho interesse em desenvolvimento backend, banco de dados, cloud e engenharia de software, buscando evoluir constantemente através de projetos, estudos e desafios práticos.
 
-Durante o ensino médio, fundei junto com colegas o Clube de Programação da escola, onde participei do ensino de lógica de programação, HTML, CSS e desenvolvimento de projetos colaborativos. Essa experiência fortaleceu minhas habilidades de comunicação, liderança e aprendizado contínuo.
-
-Também participei do projeto **Eco Cash**, apresentado na **12ª Mostra Científica da Região Sul**, desenvolvendo uma solução com Arduino integrada a um sistema web para incentivo à reciclagem através de pontuação baseada no peso dos materiais recicláveis.
-
-Atualmente, venho aprofundando conhecimentos em desenvolvimento backend, banco de dados, cloud, lógica computacional e engenharia de software, com foco em criar soluções eficientes, escaláveis e orientadas a dados.
+Durante o ensino médio, participei da criação do Clube de Programação da escola, contribuindo no ensino de lógica de programação, HTML, CSS e projetos colaborativos. Essa experiência fortaleceu habilidades como comunicação, liderança e trabalho em equipe.
 
 <p align="left">
     <a href="https://github.com/zemurilo?tab=followers">
@@ -75,38 +71,6 @@ Atualmente, venho aprofundando conhecimentos em desenvolvimento backend, banco d
 
 ---
 
-## 🎯 Objetivos atuais
-
-- Conseguir oportunidade de estágio em tecnologia
-- Evoluir em desenvolvimento backend
-- Aprender cloud computing na prática
-- Desenvolver projetos escaláveis
-- Evoluir em APIs e arquitetura de software
-
----
-
-## 🧠 Projetos e Experiências
-
-### ♻️ Eco Cash
-- Desenvolvimento de sistema integrado com Arduino
-- Integração entre hardware e sistema web
-- Sistema de pontuação baseado em reciclagem
-- Projeto apresentado na 12ª Mostra Científica da Região Sul
-
-### 👨🏻‍🏫 Clube de Programação
-- Ensino de lógica de programação
-- Desenvolvimento web básico
-- Criação de projetos colaborativos
-- Incentivo ao aprendizado em equipe
-
-### 🛗 Elevador com Portas Lógicas
-- Desenvolvimento de elevador de três andares
-- Utilização de portas lógicas e comparadores
-- Simulação de funcionamento computacional
-- Projeto acadêmico realizado em equipe
-
----
-
 ## 📊 Estatísticas
 
 <p>
@@ -125,17 +89,4 @@ Atualmente, venho aprofundando conhecimentos em desenvolvimento backend, banco d
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=zemurilo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 
-</p>
-
-<br/>
-<br/>
-
----
-
-## 🔥 Sequência de contribuições
-
-<p>
-<img 
-    src="https://streak-stats.demolab.com?user=zemurilo&theme=tokyonight&locale=pt_BR" 
-/>
 </p>
