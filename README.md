@@ -9,9 +9,12 @@
 
 ---
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no SENAC São Paulo e apaixonado por tecnologia desde cedo. Tenho interesse em desenvolvimento backend, banco de dados, cloud e engenharia de software, buscando evoluir constantemente através de projetos, estudos e desafios práticos.
+Me chamo Murilo Torres, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas no SENAC São Paulo. Desde cedo, tenho grande interesse por tecnologia e comecei explorando lógica de programação no Scratch, buscando entender como computadores funcionam na prática.
 
-Durante o ensino médio, participei da criação do Clube de Programação da escola, contribuindo no ensino de lógica de programação, HTML, CSS e projetos colaborativos. Essa experiência fortaleceu habilidades como comunicação, liderança e trabalho em equipe.
+Atualmente, na faculdade, venho desenvolvendo conhecimentos em desenvolvimento backend com Java, banco de dados SQL e NoSQL, lógica de programação, engenharia de software e modelagem de dados. Também tenho interesse em cloud computing, APIs e arquitetura de software, buscando evoluir constantemente através de projetos, estudos e desafios práticos.
+
+Tenho perfil analítico, curiosidade para aprender novas tecnologias e foco em criar soluções eficientes, escaláveis e orientadas à resolução de problemas.
+
 
 <p align="left">
     <a href="https://github.com/zemurilo?tab=followers">
@@ -55,7 +58,15 @@ Durante o ensino médio, participei da criação do Clube de Programação da es
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+## 🎯 Objetivos atuais
 
+- Conseguir oportunidade de estágio em tecnologia
+- Evoluir em desenvolvimento backend
+- Aprender cloud computing na prática
+- Desenvolver projetos escaláveis
+- Evoluir em APIs e arquitetura de software
+
+---
 ## 📚 Atualmente estudando e desenvolvendo interesse em
 
 - Desenvolvimento Backend com Java
@@ -68,25 +79,3 @@ Durante o ensino médio, participei da criação do Clube de Programação da es
 - Boas práticas de programação
 - Programação Orientada a Objetos (POO)
 - Aprendizado contínuo em tecnologia
-
----
-
-## 📊 Estatísticas
-
-<p>
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=zemurilo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zemurilo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
-</p>
