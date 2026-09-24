@@ -11,7 +11,7 @@
 
 Me chamo Murilo Torres, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas no SENAC São Paulo. Desde cedo, tenho grande interesse por tecnologia e comecei explorando lógica de programação no Scratch, buscando entender como computadores funcionam na prática.
 
-Atualmente, na faculdade, venho desenvolvendo conhecimentos em desenvolvimento backend com Java, banco de dados SQL e NoSQL, lógica de programação, engenharia de software e modelagem de dados. Também tenho interesse em cloud computing, APIs e arquitetura de software, buscando evoluir constantemente através de projetos, estudos e desafios práticos.
+Atualmente, na faculdade, venho desenvolvendo conhecimentos em desenvolvimento backend com Java e Spring Boot, banco de dados SQL e NoSQL, lógica de programação, engenharia de software e modelagem de dados. Também estou aprofundando Programação Orientada a Objetos (interfaces, herança e classes abstratas), estruturas de dados e cloud computing com AWS, buscando evoluir constantemente através de projetos, estudos e desafios práticos.
 
 Tenho perfil analítico, curiosidade para aprender novas tecnologias e foco em criar soluções eficientes, escaláveis e orientadas à resolução de problemas.
 
@@ -47,6 +47,7 @@ Tenho perfil analítico, curiosidade para aprender novas tecnologias e foco em c
 ## 🚀 Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -61,21 +62,20 @@ Tenho perfil analítico, curiosidade para aprender novas tecnologias e foco em c
 ## 🎯 Objetivos atuais
 
 - Conseguir oportunidade de estágio em tecnologia
-- Evoluir em desenvolvimento backend
-- Aprender cloud computing na prática
+- Evoluir em desenvolvimento backend com Spring Boot
+- Aprender cloud computing na prática com AWS
 - Desenvolver projetos escaláveis
 - Evoluir em APIs e arquitetura de software
 
 ---
 ## 📚 Atualmente estudando e desenvolvendo interesse em
 
-- Desenvolvimento Backend com Java
-- SQL e Banco de Dados
-- Conhecimentos teóricos em Cloud Computing (AWS)
-- Git e GitHub
-- Lógica de Programação
-- Engenharia de Software
-- Resolução de problemas através da tecnologia
+- **Spring Boot** — desenvolvimento de APIs e aplicações backend em Java
+- **Cloud Computing com AWS** — aplicando na prática o que aprendi na AWS Academy
+- **POO avançada** — Interfaces, Herança e Classes Abstratas
+- **JavaFX** — construção de interfaces gráficas em Java
+- **Enums** em Java
+- **Estruturas de Dados** — Lista Ligada, Pilha e Fila
 - Boas práticas de programação
-- Programação Orientada a Objetos (POO)
+- Resolução de problemas através da tecnologia
 - Aprendizado contínuo em tecnologia
